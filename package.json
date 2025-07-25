@@ -1,15 +1,29 @@
 {
+<<<<<<< HEAD
   "name": "expressdir",
   "version": "1.0.0",
   "main": "index.js",
+=======
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "math.js",
+>>>>>>> 68718365e8438ed40e76130b78b87b625a2ef10d
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ankita Priyadarshini Pallai",
   "license": "ISC",
+<<<<<<< HEAD
   "dependencies": {
     "express": "^5.1.0",
     "nodemon": "^3.1.10"
   },
   "description": ""
+=======
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "random-words": "^2.0.1"
+  }
+>>>>>>> 68718365e8438ed40e76130b78b87b625a2ef10d
 }
